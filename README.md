@@ -1,3 +1,3 @@
 # learning
 This is my git repository.
-Author - Aryan Ujlayan
+Author - Aryan Ujlayan (demo)
